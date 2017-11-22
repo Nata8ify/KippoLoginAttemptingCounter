@@ -1,0 +1,134 @@
+﻿***************** 
+>>> Project Weeworh [Deadline : 23 Dec 2017] <<<
+>> Be a Kotlin Master [Android]
+>> Be a Vue js Master [Front-end Web]
+>> Be a Spring boot Master [Back-end Web]
+*****************
+------------------------
+> User Cancellation Rescue Request Handler
+-- > Quit and come and post thre runnable again
+> Already Going Check and Contact
+> Forgetting of 'Closed' Incident Problem / Tracking Notification
+> Broadcasting Notification Problem on Topic and Operating Lat/Lng
+> 
+-----------------------
+> Make cancellation request dialog disapear automatically
+> Fix Zero's User Id on request Cancellation
+------------------------
+> X Fix background crash detection 22:40
+> Waiting Location Service Dialog 23:00
+> Make asynctask for display in progress dialog (Login, send rescue request, set false incident)
+-------------------------
+> Rescuer Group Notification Topic by select their own opertaion team
+> After receive noti then update the accidentlist
+- > and notify data changed
+- > affter assigned to resposibler then change button for close or system mistake 
+--------------------------
+> Mood
+- > Sad
+- > Slow
+- > Der untergang proto
+- > Loop insturment
+--------------------------
+> Concept 
+- > O Access Quickly 
+--> Fragment? or Tab Activity?
+---? > Fragement > Reusable, More Professional
+---? >  Tab Activity > Completed by IDE, Concept's Anwser, But No Experience ---! > Combine Together : pROBLEM sOLVED
+Usage
+- > Plain but attraction 
+--> Flat Design?
+- > Less Compicated 
+--> O Any Feature can be accessed by less than two clicks/tabs
+--- > Design Before Coding
+--- > List What This App Can do
+--------------
+get_boundactacc #ffb912
+-------------
+> Reservation Date Placeholder & Passed Picking Preveting
+> All Feature Intrigation
+-> STffpf , Rmresv Format
+> RAD Update
+-------------
+> X Make Deleting Room and Facility Independence on Usage (By Delete aLL Usage)
+* โลโก้ของ MST และสถานที่ตั้งทำงานของเจ้าหน้าที่จองห้อง
+--------------
+> X Handler DupllicatedKeyExp (RoomCode), NullPointerLogin, 
+---------------
+> X Inform Module
+> X Administrator Permission
+----------------
+>  X Edit Form Rearrangement
+> X Make Tab on Edit form for Password
+>  X Devide Name & Surname into Name's Field and Surname's Field
+> -X Looking For Exception
+------------------
+> Reservation report
+->By Date Period Report
+->By Date-time Period Report
+->By Date-time Period & Room Report
+->*Have Option (Facility, Reservation's Properties)
+> X  Refresh Full Calndar after User have deleted their Reservation.
+------------------
+> Dashboard Show reservation Detail
+-> Table of Latest Reservations
+--> Selected Reservation's Detail
+---> Reservation Action (Discard, E-mail to...)
+-> Today Reservation
+-> Send to Admin Message
+>  Reservation's Report.
+-> By Date Reservation
+-> Select Option to Print 
+------------------
+> X Make Self Edit 2 
+> X Attrach Facility things 3
+> My Reservation 1 > Add Edit Modal, Jump to Calendar, X Make table Show Room Name,  Show Resrvation Detail.
+---- >>>> x Emergency ! Make finish till 5 July
+>Make First Impression
+>X Make Inserting BirthDate(Show) / InDutyDate (Not-Show)
+>X Make Staff List Look Hierachy
+-->X No Manager  view btn Bug
+-->X Too Many Modal called
+-->X Staff List of Manager info view unclickable
+-->Display still ugly.
+-->XOld Data in Manager's Staff Table still be appeared.
+---------------------------------
+> X Room Searcher
+> Room and Facility Reservation
+> Rervation Validate
+---------------------------------
+>X Room management 
+> X Facility Managemet
+> X Account Response
+---------------------------------
+Focused
+>X Thymeleaf
+> Angular
+> Spring JPA
+>X Quartz
+---------------------------------
+X Handler Too long Data
+X Handler Manager no need Manager
+X Editself Password validate
+> Table display fix.
+>   E-mail create/update
+X Make a hover icon on datatable, staff card
+X Some Card Hover UI
+> Department Library
+> Initial System etup
+----------------------------
+06052560
+About Presentation
+-> Pick the Present topic
+-> Choose the role in Project
+->Talk about JIRA
+
+
+08042560
+-> coding Statistic backend part (follow the meeting note)
+->Review BPM latest homework.
+->Fix CICS ORDE001* (Have a time and will)
+->Prepare to go home by TRAIN
+------------------------------------------------------
+[*] Improving accident_stat.js Code Structure.
+* Avoiding of using setTimeout but use jquery $.when insteaded. 
